@@ -1,4 +1,16 @@
-
+/********************************************************************************* *
+WEB422 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. * No part
+of this assignment has been copied manually or electronically from any other source * (including web
+sites) or distributed to other students.
+*
+* Heroku link: https://fierce-ridge-73424.herokuapp.com
+* Name: ___Ivy Leano - Hill___________________ Student ID: ________120331186______ Date: ______05/18/2019__________
+*
+*
+********************************************************************************/
+//Note: $.ajax: https://www.w3schools.com/jquery/ajax_ajax.asp
+//              https://api.jquery.com/jquery.get/
 
 $(document).ready(function () {
   console.log("Document Ready");
